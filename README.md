@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-- 🧑‍💻 Tech I work on :
+I'm Akarsh,
+I have worked in early-stage startups since the inception of my professional career and gained skills that an uncertain environment requires. I love to build and test early-stage prototypes that require user interviews for validation.
 
+[![Visits Badge](https://badges.pufler.dev/visits/akarsh1995/akarsh1995?style=flat-square&color=black&logo=github)](https://badges.pufler.dev)
 
 ### Languages
 
@@ -21,9 +23,10 @@
 ![PyTorch](https://img.shields.io/badge/-pytorch-000?&logo=pytorch)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 
-### Technologies
-![Neovim](https://img.shields.io/badge/-Neovim-000?&logo=Neovim)
+### Tools
+[![Neovim](https://img.shields.io/badge/-Neovim-000?&logo=Neovim)](https://neovim.io/)
 ![Git](https://img.shields.io/badge/-git-000?&logo=git)
+[![Alacritty](https://img.shields.io/badge/-alacritty-000?&logo=alacritty)](https://github.com/alacritty/alacritty)
 
 ### Github Stats
 
@@ -32,7 +35,6 @@
 ### Top Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akarsh1995&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ### My Latest Blog Posts
 

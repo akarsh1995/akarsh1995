@@ -1,38 +1,96 @@
 ### Hi there 👋
 
-I'm Akarsh,  
-I am a dynamic and adaptable engineer who thrives in early-stage startups. I embrace ambiguity. I have a proven track record of developing internal prototypes from Operation Research tools to Computer Vision Optimizations, from embedded programming to full-stack development and gaming. I have demonstrated problem-solving skills in overcoming technical challenges during tough times with minimum available resources. I streamline internal processes to free up resources for experimentation.
+Hi, I'm **Akarsh**, a Founding Engineer from India 🇮🇳, currently, I'm looking for **NEW OPPORTUNITIES** in a startup that is in its zero to one journey.
 
 [![Visits Badge](https://badges.pufler.dev/visits/akarsh1995/akarsh1995?style=flat-square&color=black&logo=github)](https://badges.pufler.dev)
 
-### Languages
+Cloud:
+<span>
+<img style="margin: 0 10px" src="./images/aws.svg?raw=true" alt="AWS" height="25px" width="25px"></img>
+<img style="margin: 0 10px" src="./images/azure.svg?raw=true" alt="Azure" height="25px" width="25px"></img>
+<img style="margin: 0 10px" src="./images/gcp.svg?raw=true" alt="GCP" height="25px" width="25px"></img>
+</span>
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust)
-![Node JS](https://img.shields.io/badge/-nodejs-000?&logo=nodedotjs)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+Platforms:
+<span>
+<img style="margin: 0 10px" src="./images/windows.svg?raw=true" alt="Windows" height="25px" width="25px"></img>
+<img style="margin: 0 10px" src="./images/macos.svg?raw=true" alt="MacOS" height="25px" width="25px"></img>
+<img style="margin: 0 10px" src="./images/archlinux.svg?raw=true" alt="ArchLinux" height="25px" width="25px"></img>
+<img style="margin: 0 10px" src="./images/ubuntu.svg?raw=true" alt="Ubuntu" height="25px" width="25px"></img>
+<img style="margin: 0 10px" src="./images/arduino.svg?raw=true" alt="Arduino" height="25px" width="25px"></img>
+</span>
 
-### Technologies
+Languages:
+<span>
+<img style="margin: 0 10px" src="./images/python.svg?raw=true" alt="Python" height="25px" width="25px"></img>
+<img style="margin: 0 10px" src="./images/rust.svg?raw=true" alt="Rust" height="25px" width="25px"></img>
+<img style="margin: 0 10px" src="./images/javascript.svg?raw=true" alt="JavaScript" height="25px" width="25px"></img>
+<img style="margin: 0 10px" src="./images/csharp.svg?raw=true" alt="C#" height="25px" width="25px"></img>
+</span>
 
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Microsoft Azure](https://img.shields.io/badge/-azure-000?&logo=microsoft-azure)
-![ONNX](https://img.shields.io/badge/-ONNX-000?&logo=onnx)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Unity](https://img.shields.io/badge/-Unity-000?&logo=Unity)
-![PyTorch](https://img.shields.io/badge/-pytorch-000?&logo=pytorch)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Jetson Xavier](https://img.shields.io/badge/-Jetson-000?&logo=Nvidia)
+<img align="right" alt="Akarsh Profile Stats" src="https://github-readme-stats.vercel.app/api?username=akarsh1995&theme=transparent&hide_rank=true" />
 
-### Tools
-[![Neovim](https://img.shields.io/badge/-Neovim-000?&logo=Neovim)](https://neovim.io/)
-![Git](https://img.shields.io/badge/-git-000?&logo=git)
-[![Alacritty](https://img.shields.io/badge/-alacritty-000?&logo=alacritty)](https://github.com/alacritty/alacritty)
-[![Latex](https://img.shields.io/badge/-Latex-000?&logo=Latex)](https://www.latex-project.org/)
+Front-end:
+<span>
+<img style="margin: 0 10px" src="./images/react.svg?raw=true" alt="React" height="25px" width="25px"></img>
+<img style="margin: 0 10px" src="./images/nextjs.svg?raw=true" alt="NextJS" height="25px" width="25px"></img>
+<img style="margin: 0 10px" src="./images/css3.svg?raw=true" alt="CSS3" height="25px" width="25px"></img>
+<img style="margin: 0 10px" src="./images/html5.svg?raw=true" alt="HTML5" height="25px" width="25px"></img>
+</span>
 
-### Github Stats
+Back-end:
+<span>
+<img style="margin: 0 10px" src="./images/nodejs.svg?raw=true" alt="Node.js" height="25px" width="25px"></img>
+</span>
 
-[![Akarsh Profile Stats](https://github-readme-stats.vercel.app/api?username=akarsh1995&theme=transparent&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+Databases:
+<span>
+<img style="margin: 0 10px" src="./images/postgresql.svg?raw=true" alt="PostgreSQL" height="25px" width="25px"></img>
+<img style="margin: 0 10px" src="./images/mysql.svg?raw=true" alt="MySQL" height="25px" width="25px"></img>
+</span>
+
+APIs:
+<span>
+<img style="margin: 0 10px" src="./images/graphql.svg?raw=true" alt="GraphQL" height="25px" width="25px"></img>
+<img style="margin: 0 10px" src="./images/rest.svg?raw=true" alt="Rest" height="25px" width="25px"></img>
+</span>
+
+Embedded:
+<span>
+<img style="margin: 0 10px" src="./images/arm.svg?raw=true" alt="Cortex M7" height="25px" width="25px"></img>
+</span>
+
+Machine Learning/AI:
+<span>
+<img style="margin: 0 10px" src="./images/pytorch.svg?raw=true" alt="PyTorch" height="25px" width="25px"></img>
+<img style="margin: 0 10px" src="./images/opencv.svg?raw=true" alt="OpenCV" height="25px" width="25px"></img>
+<img style="margin: 0 10px" src="./images/openai.svg?raw=true" alt="OpenAI" height="25px" width="25px"></img>
+<img style="margin: 0 10px" src="./images/nvidia.svg?raw=true" alt="Nvidia Jetson" height="25px" width="25px"></img>
+<img style="margin: 0 10px" src="./images/onnxai.svg?raw=true" alt="ONNX" height="25px" width="25px"></img>
+</span>
+
+DevOps:
+<span>
+<img style="margin: 0 10px" src="./images/kubernetes.svg?raw=true" alt="Kubernetes" height="25px" width="25px"></img>
+<img style="margin: 0 10px" src="./images/docker.svg?raw=true" alt="Docker" height="25px" width="25px"></img>
+<img style="margin: 0 10px" src="./images/git.svg?raw=true" alt="Git" height="25px" width="25px"></img>
+<img style="margin: 0 10px" src="./images/linux.svg?raw=true" alt="Linux" height="25px" width="25px"></img>
+<img style="margin: 0 10px" src="./images/bash.svg?raw=true" alt="Bash" height="25px" width="25px"></img>
+</span>
+
+Game Engines:
+<span>
+<img style="margin: 0 10px" src="./images/unity.svg?raw=true" alt="Unity" height="25px" width="25px"></img>
+</span>
+
+Tools:
+<span>
+<img style="margin: 0 10px" src="./images/alacritty.svg?raw=true" alt="Alacritty" height="25px" width="25px"></img>
+<img style="margin: 0 10px" src="./images/neovim.svg?raw=true" alt="Neovim" height="25px" width="25px"></img>
+<img style="margin: 0 10px" src="./images/LaTeX.svg?raw=true" alt="Latex" height="25px" width="25px"></img>
+</span>
+
+<br />
 
 ### Top Languages
 

@@ -1,6 +1,3 @@
-### Hi there 👋
-
-Hi, I'm **Akarsh**, a Founding Engineer from India 🇮🇳, currently, I'm looking for **NEW OPPORTUNITIES** in a startup that is in its zero to one phase.
 
 [![Visits Badge](https://badges.pufler.dev/visits/akarsh1995/akarsh1995?style=flat-square&color=black&logo=github)](https://badges.pufler.dev)
 
